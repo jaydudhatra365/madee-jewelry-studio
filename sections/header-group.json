@@ -17,13 +17,21 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
+            "text": "Voor 15:00 Besteld, Morgen In Huis",
+            "link": ""
+          }
+        },
+        "announcement_73XpkB": {
+          "type": "announcement",
+          "settings": {
             "text": "Welcome to our store",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_73XpkB"
       ],
       "settings": {
         "auto_rotate": false,
